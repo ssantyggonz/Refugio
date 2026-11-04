@@ -8,6 +8,7 @@ public class RefugioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RefugioApplication.class, args);
+		System.out.println("xd");
 	}
 
 }
